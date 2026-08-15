@@ -1,6 +1,6 @@
 {
     "name": "@domain-first/handlers-mock-rest-adapter",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "license": "MIT",
     "type": "module",
     "exports": {
