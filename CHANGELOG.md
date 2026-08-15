@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/alevnyacow/domain-first-handlers-mock-rest-adapter/compare/v1.0.0...v1.0.1) (2026-08-15)
+
+
+### Bug Fixes
+
+* **package.json:** added description ([11a522e](https://github.com/alevnyacow/domain-first-handlers-mock-rest-adapter/commit/11a522e554dc40cc29b700d46f81e6189a5537ce))
+
 # 1.0.0 (2026-08-15)
 
 
