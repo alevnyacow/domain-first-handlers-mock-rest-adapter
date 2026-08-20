@@ -47,6 +47,6 @@
         "zod": "^4.4.3"
     },
     "peerDependencies": {
-        "@domain-first/handlers-rest": "^2.0.0"
+        "@domain-first/handlers-rest": "^3.0.0"
     }
 }
