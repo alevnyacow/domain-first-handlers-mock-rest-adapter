@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/alevnyacow/domain-first-handlers-mock-rest-adapter/compare/v2.0.0...v2.0.1) (2026-09-07)
+
+
+### Bug Fixes
+
+* broader version of peer dependency (`handlers-rest` from `^3.0.0` to `>=3`) ([4699f6a](https://github.com/alevnyacow/domain-first-handlers-mock-rest-adapter/commit/4699f6aa71e8027fab5ffe6bc7c4b4b3b237e730))
+
 # [2.0.0](https://github.com/alevnyacow/domain-first-handlers-mock-rest-adapter/compare/v1.0.1...v2.0.0) (2026-08-20)
 
 
